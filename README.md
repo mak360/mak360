@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mak360/mak360/main/github-banner.png" alt="banner">
+<img src="https://raw.githubusercontent.com/mak360/mak360/main/banner.png" alt="banner">
 
 ### Hi there 👋
 
